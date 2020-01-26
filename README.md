@@ -6,11 +6,11 @@ Macha JUMELIN B3 EPSI
 
 A PROPOS 
 
-Suite à un echec tonitruant d'implémentation d'une interface plus sexy, voilà la dernière version fonctionelle de mon wikiGame et son habillage CLI cheap.
+Suite à un echec tonitruant d'implémentation d'une interface plus sexy, voilà la dernière version fonctionelle de mon wikiGame.
 
  Il dispose de plusieurs modes de jeu : 
 
-   EASY : où un petit résumé des pages de départ et d'arriver est affiché pour aider le joueur à avancer
+   EASY : où un petit résumé des pages de départ et d'arrivée est affiché pour aider le joueur à avancer
 
    REGULAR : où le joueur ne dispose que du nom de la page de départ et de la page cible pour s'en sortir avec les liens
 
